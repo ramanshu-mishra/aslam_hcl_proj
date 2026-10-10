@@ -1,0 +1,4 @@
+doc_id,title,issuer,authority_level,doc_type,version,effective_from,effective_to,supersedes,scope_programmes,scope_batches,provenance,retrieved_on,synthetic
+ACAD-REG-2024,Academic Regulations,Dean Academics,1,regulation,1.0,2024-07-01,,,ALL,ALL,https://university.edu/regulations,2024-10-01,N
+EXAM-POL-2024,Examination Policy,Exam Controller,2,regulation,1.0,2024-07-01,,,ALL,ALL,https://university.edu/exam-policy,2024-10-01,N
+ATT-CIRC-2024,Attendance Requirements,Dean Academics,2,circular,1.0,2024-08-01,,,ALL,ALL,https://university.edu/attendance,2024-10-01,N

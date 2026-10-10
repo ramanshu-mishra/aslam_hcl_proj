@@ -1,0 +1,54 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# LangGraph and LangChain
+langgraph==0.2.28
+langchain==0.3.0
+langchain-core==0.3.0
+
+# Vector Store and Embeddings
+chromadb==0.4.22
+sentence-transformers==2.7.0
+
+# Database
+sqlite-utils==3.35.2
+
+# Document Processing
+PyPDF2==3.0.1
+PyMuPDF==1.23.8
+pdfplumber==0.10.3
+python-docx==1.1.0
+pytesseract==0.3.10
+Pillow==10.1.0
+
+# LLM Integration
+requests==2.31.0
+
+# Search and Retrieval
+rank-bm25==0.2.2
+
+# API and Web
+httpx==0.25.2
+python-multipart==0.0.6
+
+# UI
+streamlit==1.29.0
+
+# Utilities
+python-dotenv==1.0.0
+pandas==2.1.4
+numpy==1.26.2
+tqdm==4.66.1
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-asyncio==0.21.1
+
+# Development
+black==23.12.1
+ruff==0.1.8
+ipython==8.18.1

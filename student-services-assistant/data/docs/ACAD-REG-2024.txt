@@ -1,0 +1,98 @@
+ACADEMIC REGULATIONS 2024
+=========================
+
+Document ID: ACAD-REG-2024
+Version: 1.0
+Effective From: 2024-07-01
+Issued By: Dean of Academics
+Authority Level: 1
+
+SECTION 1: ATTENDANCE REQUIREMENTS
+-----------------------------------
+
+1.1 Minimum Attendance
+Students must maintain a minimum of 75% attendance in each course to be eligible to appear for the end-semester examination.
+
+1.2 Medical Exemptions
+Students with valid medical certificates may be granted exemptions from up to 10% of total classes. Such cases must be submitted within 7 days of absence.
+
+1.3 Shortage Consequences
+Students with attendance below 75% will not be permitted to appear for exams unless they obtain special permission from the Dean of Academics.
+
+
+SECTION 2: GRADING SYSTEM
+--------------------------
+
+2.1 Grade Scale
+The university follows a 10-point CGPA scale with the following grade distribution:
+
+A+ (Outstanding): 9.0-10.0
+A (Excellent): 8.0-8.9
+B+ (Very Good): 7.0-7.9
+B (Good): 6.0-6.9
+C+ (Average): 5.0-5.9
+C (Pass): 4.0-4.9
+F (Fail): Below 4.0
+
+2.2 CGPA Calculation
+The Cumulative Grade Point Average (CGPA) is calculated as the weighted average of grade points across all completed courses, with course credits as weights.
+
+2.3 Minimum CGPA Requirements
+- For continuation: Minimum CGPA of 5.0 required
+- For graduation: Minimum CGPA of 6.0 required
+- For honors degree: Minimum CGPA of 7.5 required
+
+
+SECTION 3: EXAMINATION RULES
+-----------------------------
+
+3.1 Eligibility
+To be eligible for examinations, students must:
+- Have minimum 75% attendance
+- Have paid all fees
+- Have no pending disciplinary actions
+
+3.2 Re-examination
+Students who fail a course may re-appear for the examination in the next available semester. A maximum of 3 attempts are allowed per course.
+
+3.3 Grade Improvement
+Students may apply for grade improvement for courses where they obtained grades below B. Only one improvement attempt is allowed per course.
+
+
+SECTION 4: CREDIT REQUIREMENTS
+-------------------------------
+
+4.1 Graduation Credits
+To graduate with a Bachelor's degree, students must complete:
+- Minimum 120 credits for 3-year programs
+- Minimum 160 credits for 4-year programs
+
+4.2 Course Load
+- Minimum course load per semester: 15 credits
+- Maximum course load per semester: 24 credits
+- Students with CGPA above 8.0 may take up to 27 credits with approval
+
+4.3 Credit Distribution
+Credits must include:
+- Core courses: 60% of total credits
+- Electives: 30% of total credits
+- Project/Internship: 10% of total credits
+
+
+SECTION 5: ACADEMIC PROBATION
+------------------------------
+
+5.1 Probation Criteria
+Students with CGPA below 5.0 for two consecutive semesters will be placed on academic probation.
+
+5.2 Probation Consequences
+Students on probation must:
+- Meet with academic advisor bi-weekly
+- Take reduced course load (maximum 18 credits)
+- Achieve minimum CGPA of 5.5 in probation semester
+
+5.3 Continuation
+Students who fail to achieve required CGPA during probation may be asked to discontinue from the program.
+
+
+END OF DOCUMENT
